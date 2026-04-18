@@ -1,0 +1,5 @@
+name,address,city,state,zip,cardType,cardNumber,month,year,nameOnCard
+Joao Silva,Rua A,Sao Paulo,SP,01000000,visa,4111111111111111,12,2028,Joao Silva
+Maria Souza,Rua B,Rio de Janeiro,RJ,20000000,amex,378282246310005,11,2029,Maria Souza
+Carlos Lima,Rua C,Belo Horizonte,MG,30000000,dinerclub,30569309025904,10,2030,Carlos Lima
+Ana Costa,Rua D,Curitiba,PR,80000000,visa,4111111111111111,09,2027,Ana Costa
